@@ -6,7 +6,7 @@ This Docker container was inpired by the article [How to use AWS Fargate and Lam
 
 Thank you so much [@rupakg](https://github.com/rupakg) it was a great article.
 
-    Derived from the base [jrottenberg/ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg/) docker image, this image encapsulates the creation of a thumbnail image from a video file.
+Derived from the base [jrottenberg/ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg/) docker image, this image encapsulates the creation of a thumbnail image from a video file.
 
 ## Usage
 This docker container was created for a specific case that we've, it will run the main which is a golang app that process videos with some specific features.
